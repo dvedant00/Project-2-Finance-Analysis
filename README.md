@@ -1,1 +1,1 @@
-# Project-2-Finance-Analysis
+This is a Financial Analaysis Project.In the beginning I have collected the data from the company site which was in the JSON form. After that i converted the JSON data into the CSV file using the Panda libraray of Python . When i got the CSV data then with the help of Power Query I cleaned the data by handling missing values, removing duplicates, correcting errors, and transforming data into a suitable format for analysis. Following the cleaning part I analyzed the data and converted it into virtual form with the help of Power Bi.
